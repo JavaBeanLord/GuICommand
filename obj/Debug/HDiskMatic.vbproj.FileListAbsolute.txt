@@ -1,0 +1,10 @@
+c:\users\justinr\documents\visual studio 2013\Projects\HDiskMatic\HDiskMatic\bin\Debug\HDiskMatic.exe.config
+c:\users\justinr\documents\visual studio 2013\Projects\HDiskMatic\HDiskMatic\bin\Debug\HDiskMatic.exe
+c:\users\justinr\documents\visual studio 2013\Projects\HDiskMatic\HDiskMatic\bin\Debug\HDiskMatic.pdb
+c:\users\justinr\documents\visual studio 2013\Projects\HDiskMatic\HDiskMatic\bin\Debug\HDiskMatic.xml
+c:\users\justinr\documents\visual studio 2013\Projects\HDiskMatic\HDiskMatic\obj\Debug\HDiskMatic.Form1.resources
+c:\users\justinr\documents\visual studio 2013\Projects\HDiskMatic\HDiskMatic\obj\Debug\HDiskMatic.Resources.resources
+c:\users\justinr\documents\visual studio 2013\Projects\HDiskMatic\HDiskMatic\obj\Debug\HDiskMatic.vbproj.GenerateResource.Cache
+c:\users\justinr\documents\visual studio 2013\Projects\HDiskMatic\HDiskMatic\obj\Debug\HDiskMatic.exe
+c:\users\justinr\documents\visual studio 2013\Projects\HDiskMatic\HDiskMatic\obj\Debug\HDiskMatic.xml
+c:\users\justinr\documents\visual studio 2013\Projects\HDiskMatic\HDiskMatic\obj\Debug\HDiskMatic.pdb
